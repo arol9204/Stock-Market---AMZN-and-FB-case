@@ -91,7 +91,7 @@ GROUP BY DATENAME(dw, a.Date)
 
 
 /*
-(5 Marks) For the data provided for both stocks AMZN and FB provide an analysis that includes as a
+For the data provided for both stocks AMZN and FB provide an analysis that includes as a
 minimum the elements below.
 - Introduction: Write an introductory paragraph that describes the nature of the data provided, and
 any relevant exploratory comment about the data (1-2 paragraphs)
